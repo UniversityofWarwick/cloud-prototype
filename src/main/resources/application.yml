@@ -1,0 +1,5 @@
+app.message: hello
+app.deployment: unknown
+
+spring:
+    cloud.config.import-check.enabled: false
